@@ -6,5 +6,5 @@
    https://drive.google.com/drive/folders/1lg7OvxZo58m7dFcwRr9nWVA7bAb-1fZx?usp=sharing
 3. VLG_OP colab notebook contains the ARIMA and GARCH model .
 4. VLG_OP_2 colab notebook contains the LSTM model .
-5. Project_report.pdf -> Report of a project . 
+5. Project_report.pdf -> Report of the project . 
  
